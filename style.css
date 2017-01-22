@@ -1,0 +1,195 @@
+html
+    {
+      background: url(games.jpg) no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+       background-size: cover;
+    }
+	body
+	{
+		color: white;
+	}
+	#menu
+	{
+		font-size: 300%;
+		text-align: center;
+		
+		color: white;
+		width: max-width;
+		height: 80px;
+		top: 0;
+	}
+	#lista
+    {
+      font-size: 150%;
+      margin-top: 5%;
+      margin-left: 36%;
+      text-align: left;
+      width: 400px;
+      height: 500px;  
+      padding-left: 50px;
+
+      border-top-color: #007EC7;
+      border-top-width: 1.3mm;
+      border-top-style: solid;
+
+      border-bottom-color: #007EC7;
+      border-bottom-width: 1.3mm;
+      border-bottom-style: solid;
+
+      border-left-color: #007EC7;
+      border-left-width: 0.5mm;
+      border-left-style: solid; 
+	  
+	  border-right-color: #007EC7;
+	  border-right-width: 0.5mm;
+      border-right-style: solid; 
+
+      border-bottom-left-radius: 15px;  
+      border-top-left-radius: 15px;
+	  border-bottom-right-radius: 15px;  
+      border-top-right-radius: 15px;
+	}
+	h1 
+    {
+      font-size: 160%;
+      color: #007EC7;
+	  font-style: italic;
+	  
+    }
+	
+	h2 
+    {
+      font-size: 100%;
+      color: #007EC7;
+	  margin-top: 0%;
+	  font-style: italic;
+	  
+    }
+	
+	h3
+    {
+      font-size: 100%;
+      color: #007EC7;
+	  margin-top: 5%;
+	  font-style: italic;
+	  
+    }
+	
+	h4 
+    {
+      font-size: 100%;
+      color: #007EC7;
+	  margin-top: 5%;
+	  margin-bottom: 0%;
+	  font-style: italic;
+	  
+    }
+	
+	h5
+    {
+      font-size: 150%;
+      color: #007EC7;
+	  font-style: italic;
+	  text-align: right;
+	  
+    }
+	#rightTop
+	{
+	  font-size: 150%;
+      margin-top: 5%;
+      margin-left: 23%;
+      text-align: left;
+      width: 400px;
+      height: 500px;  
+      padding-left: 50px;
+
+      border-top-color: #007EC7;
+      border-top-width: 1.3mm;
+      border-top-style: solid;
+
+      border-bottom-color: #007EC7;
+      border-bottom-width: 1.3mm;
+      border-bottom-style: solid;
+
+      border-left-color: #007EC7;
+      border-left-width: 0.5mm;
+      border-left-style: solid; 
+	  
+	  border-right-color: #007EC7;
+	  border-right-width: 0.5mm;
+      border-right-style: solid; 
+
+      border-bottom-left-radius: 15px;  
+      border-top-left-radius: 15px;
+	  border-bottom-right-radius: 15px;  
+      border-top-right-radius: 15px;
+	}
+	
+	#left
+	{
+	  font-size: 150%;
+      margin-top: 2%;
+      margin-left: 15%;
+      text-align: left;
+      width: 550px;
+      height: 650px;  
+      padding-left: 50px;
+      padding-bottom: 300px;
+
+      border-top-color: #007EC7;
+      border-top-width: 1.3mm;
+      border-top-style: solid;
+
+      border-bottom-color: #007EC7;
+      border-bottom-width: 1.3mm;
+      border-bottom-style: solid;
+
+      border-left-color: #007EC7;
+      border-left-width: 0.5mm;
+      border-left-style: solid; 
+	  
+	  border-right-color: #007EC7;
+	  border-right-width: 0.5mm;
+      border-right-style: solid; 
+
+      border-bottom-left-radius: 15px;  
+      border-top-left-radius: 15px;
+	  border-bottom-right-radius: 15px;  
+      border-top-right-radius: 15px;
+	}
+	
+	#right
+	{
+	  font-size: 150%;
+      margin-top: 2%;
+      margin-left: 18%;
+      text-align: left;
+      width: 550px;
+      height: 650px;  
+      padding-left: 50px;
+      padding-bottom: 300px;
+	  
+
+      border-top-color: #007EC7;
+      border-top-width: 1.3mm;
+      border-top-style: solid;
+
+      border-bottom-color: #007EC7;
+      border-bottom-width: 1.3mm;
+      border-bottom-style: solid;
+
+      border-left-color: #007EC7;
+      border-left-width: 0.5mm;
+      border-left-style: solid; 
+	  
+	  border-right-color: #007EC7;
+	  border-right-width: 0.5mm;
+      border-right-style: solid; 
+
+      border-bottom-left-radius: 15px;  
+      border-top-left-radius: 15px;
+	  border-bottom-right-radius: 15px;  
+      border-top-right-radius: 15px;
+	}

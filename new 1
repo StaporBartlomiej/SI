@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<head>
+	<meta charset="utf-8" />
+	<title>Top 10 najlepiej ocenionych gier</title>
+	<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+	<script type="text/javascript" src="scripts.js"></script>
+
+</head>
+<body> 
+	<div id="menu">
+	Top 10 najlepiej ocenionych gier
+	</div>
+	<table>
+		<tr>
+			<td>
+			<div id="lista">
+				<br>
+				<button class="myButton" type="submit" style="height:80px;width:300px" onclick="load('listaGier',1)">
+					<h1>Lista gier</h1>
+				</button>
+				<p id="topLeftDemo"></p>
+			</div>
+			</td>
+	
+	
+			<td>
+				<div id="rightTop">
+				<br>
+				<h2>Podaj Id Gry:</h2>
+				<form onsubmit="load('opisGier',document.getElementById('val1').value) ; return false">
+				<input style="height:30px;width:80px;font-size: 100%;" type="text" name="val1" id="val1">
+				</form>  
+				<p id="rightTopdemo"></p>
+				</div>
+			</td>
+		</tr>
+	</table>
+	<br>
+	
+	 
+	 <table>
+		<tr>
+			<td>
+				<div id="left">
+				<h3>Opis:</h3>
+				<p id="leftbotdemo">
+				</div>
+			</td>
+	
+			<td>
+				<div id="right">
+				<h4>Fabula:</h4>
+				<p id="rightbotdemo">
+				</div>
+			</td>
+		</tr>
+	</table
+	
+	<div id="footer">
+		<h5>Bartłomiej Stąpór</h5>
+	</div>
+	
+	
+
+
+
+
+</body>
+</html>

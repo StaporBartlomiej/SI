@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE gry [
+	<!ELEMENT gry (gra*)>
+	<!ELEMENT gra (tytul,producent,wydawca,data_premiery,ocena_graczy,cena,opis,fabula)>
+	<!ATTLIST gra id CDATA #REQUIRED>
+	<!ELEMENT tytul (#PCDATA)>
+	<!ELEMENT producent (#PCDATA)>
+	<!ELEMENT wydawca (#PCDATA)>
+	<!ELEMENT data_premiery (#PCDATA)>
+	<!ELEMENT ocena_graczy (#PCDATA)>
+	<!ELEMENT cena (#PCDATA)>
+	<!ELEMENT opis (#PCDATA)>
+	<!ELEMENT fabula (#PCDATA)>
+]>
+
+<gry>
+	<gra id="1">
+		<tytul>Wiedzmin 3: Dziki Gon</tytul>
+		<producent>CD Projekt RED</producent>
+		<wydawca>Bandai Namco Entertainment</wydawca>
+		<data_premiery>19.05.2015</data_premiery>
+		<ocena_graczy>9.4</ocena_graczy>
+		<cena>99,99 zl</cena>
+		<opis>Wiedzmin 3: Dziki Gon (The Witcher 3: Wild Hunt) na komputery osobiste to trzecia odslona popularnej serii gier RPG akcji opartej na prozie Andrzeja Sapkowskiego. Tytul wyprodukowalo studio CD Projekt RED, czyli zespol odpowiedzialny rowniez za dwie poprzednie czesci - Wiedzmina z 2007 roku i Wiedzmina 2: Zabojcy Krolow z 2011 roku.
+Produkcja w wersji na PC-ty nie odbiega zawartoscia od konsolowych wydan, ale uzytkownicy ,,blaszakow" otrzymali kilka niedostepnych na pozostalych platformach sprzetowych elementow. Przede wszystkim moga oni cieszyc sie najwyzsza mozliwa jakoscia oprawy graficznej oraz animacje na poziomie 60 klatek na sekunde. Oczywiscie, by korzystac z tych wszystkich dobrodziejstw, potrzebny jest odpowiednio mocny komputer.
+Drugim elementem, ktorego nie znajdziemy na konsolach sa modyfikacje. Studio CD Projekt RED udostepnilo w sierpniu 2015 roku zainteresowanym osobom oficjalne narzedzia moderskie, umozliwiajace m.in. dowolne zmienianie obiektow, statystyk i nie tylko. Zaowocowalo to m.in. tymi modami.
+</opis>
+		<fabula>W grze Wiedzmin 3: Dziki Gon na PC Windows ponownie wcielamy sie w znanego z wczesniejszych odslon wiedzmina. Glowna os fabularna obraca sie wokol kilku oddzielnych watkow. Wsrod nich znalazlo sie poszukiwanie utraconej milosci Geralta oraz inwazja Nilfgaardu na Krolestwa Polnocy. Sprobujemy tez powstrzymac tytulowy Dziki Gon, przesladujacy wiedzmina zarowno w powiesciach, jak i obecny w pierwszej i w niklym stopniu w drugiej czesci serii. Wszystkie te glowne zadania oferuja filmowa jakosc opowiadanej historii, z rozgalezionymi sciezkami wydarzen, imponujacymi scenkami przerywnikowymi i starannie wyrezyserowanymi sekwencjami.
+Co ciekawe, mozemy porzucic czesc watkow, trzeba bedzie jednak liczyc sie z wynikajacymi z tego faktu roznymi konsekwencjami. Poza glownymi opowiesciami dostepne jest takze zatrzesienie misji pobocznych, ktore w sumie starczaja na ponad sto godzin zabawy. Autorzy zadbali o duza roznorodnosc wyzwan. W trakcie przygod bedziemy eksplorowali m.in. jaskinie, prastare ruiny i tetniace zyciem wioski. Zapolujemy na potwory dla zysku oraz specjalnych nagrod. Pojawia sie rowniez zadania oparte na dochodzeniach. Bialy Wilk moze tez oddac sie rozgrywce w karcianego Gwinta, ktory jest odrebna gra w grze.
+</fabula>
+	</gra>
+
+	<gra id="2">
+		<tytul>Grand Theft Auto V</tytul>
+		<producent>Rockstar Games</producent>
+		<wydawca>Rockstar Games</wydawca>
+		<data_premiery>14.04.2015</data_premiery>
+		<ocena_graczy>9.2</ocena_graczy>
+		<cena>139,99 zl</cena>
+		<opis>Grand Theft Auto V - kolejna odslona kultowej serii gangsterskich gier akcji studia Rockstar North - zabiera nas do swiata wzorowanego na Kalifornii. W uniwersum Grand Theft Auto stan nosi nazwe San Andreas i sklada sie miedzy innymi z miasta Los Santos, ktore stanowi glowne miejsce akcji piatki. Tworzac swoj swiat Rockstar jeszcze raz postanowil sparodiowac znana nam rzeczywistosc, osmieszajac ideologie, produkty, zjawiska i zachowania ludzi. Jednoczesnie tworcy GTA V postarali sie o rozbudowanie swojej produkcji pod kazdym wzgledem w stosunku do poprzednich odslon cyklu.
+Warto wspomniec, ze Grand Theft Auto V na komputery osobiste jest niejako kompletna i najbardziej rozbudowana edycja produkcji. Edycja ta oferuje nie tylko znany z konsol PlayStation 4 i Xbox One tryb FPP, ale takze jeszcze lepsza jakosc oprawy graficznej (o ile posiadacie odpowiednio mocny sprzet), mody i nie tylko.
+</opis>
+		<fabula>Akcja Grand Theft Auto V na PC Windows rozgrywa sie w wielkim otwartym miescie Los Santos, w ktorym trojka niecodziennych bohaterow prowadzi niebezpieczne zycie. Objety programem ochrony swiadkow byly rabus Michael wiedzie spokojny zywot do dnia, w ktorym nakrywa zone na zdradzie z instruktorem tenisa. W zlosci niszczy wille kochanka, ale okazuje sie, ze byla ona wlasnoscia jednego z baronow narkotykowych. Michael nie ma wyjscia i musi powrocic do swojego dawnego fachu, napadajac na sklep z bizuteria. Wlamanie zwraca jednak uwage jego dawnego partnera, Trevora Philipsa, ktory odnajduje go i naklania do ponownej wspolpracy. Do obu bohaterow dolacza chlopak z getta, Franklin, pragnacy szybko dorobic sie sporego majatku.
+</fabula>
+	</gra>
+
+	<gra id="3">
+		<tytul>The Elder Scrolls V: Skyrim </tytul>
+		<producent>Bethesda Softworks</producent>
+		<wydawca>Bethesda Softworks</wydawca>
+		<data_premiery>11.11.2011</data_premiery>
+		<ocena_graczy>9.6</ocena_graczy>
+		<cena>26,99 zl</cena>
+		<opis>The Elder Scrolls V: Skyrim to kolejna czesc serii cRPG autorstwa zespolu Bethesda Softworks. Ponownie odwiedzamy w niej kontynent Tamriel, a fabula tym razem obraca sie wokol powrotu do tej krainy pradawnej rasy smokow.
+</opis>
+		<fabula>Akcja toczy sie 200 lat po wydarzeniach opowiedzianych w grze Oblivion. Gracze wcielaja sie w jednego z ostatnich bohaterow parajacych sie profesja dovahkiina, czyli lowcy smokow. Do niedawna wydawalo sie, ze potezne monstra sa juz tylko wspomnieniem, ale pewnego dnia pokryte luskami bestie znow zaczynaja pojawiac sie na niebie, a przepowiednia zwiastuje nadejscie Alduina, boga zniszczenia, ktory przyjmuje postac smoka. Walczac z tymi groznymi potworami przejmujemy ich dusze oraz zdolnosci, czyli tak zwane Krzyki. Za ich pomoca mozemy spowolnic czas, odepchnac przeciwnikow niewidzialna energia, a nawet wezwac na pomoc sprzymierzonego smoka. Wiele tego typu umiejetnosci otrzymujemy po odnalezieniu pradawnych slow, ukrytych w nordyckich podziemiach.
+</fabula>
+	</gra>
+
+	<gra id="4">
+		<tytul>Euro Truck Simulator 2</tytul>
+		<producent>SCS Software</producent>
+		<wydawca>SCS Software</wydawca>
+		<data_premiery>19.12.2012</data_premiery>
+		<ocena_graczy>8.3</ocena_graczy>
+		<cena>13,20 zl</cena>
+		<opis>Euro Truck Simulator 2 to druga odslona symulatora od SCS Software, w ktorym zasiadamy za sterami poteznych samochodow ciezarowych. Tytul wprowadza szereg usprawnien w stosunku do poprzedniczki, ktore mialy za zadanie urealnic rozgrywke. Dla fanow tego typu pozycji cenna informacja powinien byc fakt, ze za gre odpowiadaja miedzy innymi ludzie pracujacy wczesniej nad Hard Truck 18 Wheels of Steel - inna produkcja o tej tematyce.
+</opis>
+		<fabula>Autorzy projektujac swoje dzielo skupili sie przede wszystkim na dostosowaniu go do gustu europejskich odbiorcow. Dzieki temu po raz drugi zwiedzamy tysiace kilometrow drog ciagnacych sie przez Stary Kontynent, trafiajac do wielu znanych miast. Rozgrywka tradycyjnie polega na dowiezieniu wyznaczonego ladunku we wskazane miejsce, robiac to najlepiej w jak najkrotszym czasie, popisujac sie po drodze sztuka umiejetnego prowadzenia ciezarowki.
+Tworcy zadbali o licencje znanych marek, dzieki czemu pokierujemy pojazdami takich producentow jak Mercedes, Scania i wielu innych. Poszczegolne ciezarowki przypominaja zatem swoje rzeczywiste odpowiedniki. Bez problemu mozemy takze modyfikowac ich wyglad. Pojawila sie bowiem mozliwosc aplikowania nowych halogenow i innych dodatkow, a takze zmiany malowania.
+</fabula>
+	</gra>
+
+	<gra id="5">
+		<tytul>Far Cry Primal</tytul>
+		<producent>Ubisoft</producent>
+		<wydawca>Ubisoft</wydawca>
+		<data_premiery>1.03.2016</data_premiery>
+		<ocena_graczy>7.2</ocena_graczy>
+		<cena>119,99 zl</cena>
+		<opis>Far Cry Primal na komputerach PC to pierwszoosobowa gra akcji, stanowiaca pelnowymiarowy spin-off sandboksowego cyklu Far Cry, zapoczatkowanego w 2004 roku przez znane pozniej z serii Crysis studio Crytek. Poczawszy od kolejnej odslony serii, tj. Far Cry 2, piecze nad marka objelo studio Ubisoft Montreal, odpowiedzialne za trzy kontynuacje. Oprocz pelnoprawnych czesci Far Cry, od czasu do czasu otrzymywalismy takze produkcje poboczne, np. Far Cry 3: Blood Dragon, bedacy pastiszem filmow science-fiction z lat 80. Odskocznie stanowi tez opisywany tytul, ktory przenosi graczy w zupelnie nowe, prehistoryczne realia.
+Podobnie jak wszystkie ostatnie odslony cyklu, takze i Far Cry Primal powstal pod kierownictwem kanadyjskiego oddzialu firmy Ubisoft, znanego przede wszystkim za sprawa bestsellerowej serii Assassin's Creed.
+</opis>
+		<fabula>Akcja Far Cry Primal przenosi graczy do epoki kamienia lupanego, okolo 10 tysiecy lat przed nasza era, i toczy sie w pieknej, aczkolwiek smiertelnie niebezpiecznej fikcyjnej krainie Oros. Uksztaltowala sie ona kilka tysiecy lat wczesniej na skutek cofniecia sie ladolodu po ostatnim zlodowaceniu Ziemi, dzieki czemu oferuje spore zroznicowanie krajobrazu - od zielonych lasow po bagna i obszary pokryte sniegiem.
+W grze wcielamy sie w prehistorycznego mysliwego imieniem Takkar, ktory wraz z kilkoma podobnymi sobie lowcami rusza na poszukiwanie reszty swojego plemienia. Grupa zostaje jednak zaatakowana przez tygrysa szablozebnego, a Takkar jako jedyny uchodzi z zyciem. Od tego momentu bohater zdany jest wylacznie na siebie, w krainie zamieszkanej przez agresywnych tubylcow i smiertelnie niebezpieczne zwierzeta. A poniewaz w prehistorycznej dziczy samotny mysliwy stanowic moze lakomy kasek dla pierwszego napotkanego drapieznika, podstawowym celem Takkara staje sie uformowanie nowego plemienia i zapewnienie mu bezpieczenstwa oraz warunkow do rozwoju.
+</fabula>
+	</gra>
+	
+	<gra id="6">
+		<tytul>The Sims 4</tytul>
+		<producent>EA Maxis / Maxis Software</producent>
+		<wydawca>Electronic Arts Inc.</wydawca>
+		<data_premiery>02.09.2014</data_premiery>
+		<ocena_graczy>6.8</ocena_graczy>
+		<cena>119,99 zl</cena>
+		<opis>The Sims 4 to kolejna czesc serii popularnych na calym swiecie wirtualnych symulatorow zycia. Podobnie jak w przypadku poprzednich odslon cyklu za jego produkcje odpowiada amerykanskie studio Maxis. Pierwsze The Sims ukazalo sie jeszcze w 2000 roku. Jego pomyslodawca byl Will Wright, zalozyciel Maxis i tworca SimCity oraz innych pokrewnych mu gier z Sim w tytule, ktore swiecily swoje najwieksze sukcesy w latach 90. The Sims szybko przeroslo popularnoscia pozostale gry z katalogu dewelopera, stajac sie fenomenem i jedna z najpopularniejszych marek w branzy elektronicznej rozrywki. Dzieki zywotnosci i popularnosci gry, od lat systematycznie ukazuja sie jej kolejne czesci oraz dziesiatki mniejszych i wiekszych dodatkow.
+</opis>
+		<fabula>Czwarta czesc The Sims, podobnie jak poprzedniczki, unika rewolucyjnych zmian w modelu rozgrywki stawiajac na powolna ewolucje sprawdzonych rozwiazan. W trakcie gry nadal opiekujemy sie wiec rodzina wirtualnych Simow dbajac o ich wszystkie potrzeby, zarowno duchowe jak i materialne, a takze zapewniajac dach nad glowa, projektujac dom oraz ogrod.
+Rozpoczynajac zabawe ponownie tworzymy swoich simow, tym razem jednak mamy do wyboru duzo wiecej modyfikatorow i opcji niz w trzeciej czesci cyklu. Wizualny edytor pozwala nam znacznie dokladniej okreslic wyglad postaci. Kompleksowo wplywamy na cechy takie jak sylwetka, wzrost, waga, ksztalt twarzy itd. Ogromne znacznie ma rowniez charakter. Gracze wybieraja kilka z kilkudziesieciu dostepnych cech osobowosci, a takze dlugoterminowe cele bohatera. Maja one wplyw na pozniejsze zachowanie sima i sa elementem poprawionego systemu sztucznej inteligencji wprowadzonego do gry. Simy zachowuja sie dzieki niemu naturalniej i w znacznie bardziej zroznicowany sposob reaguja na zaistniale wokol nich sytuacje. Nowinka sa rowniez emocje odczuwane przez wirtualnych bohaterow. Wplywa na nie, nie tylko poziom aktualnie zaspokojonych potrzeb czy spoleczne interakcje, ale takze uzywane sprzety domowe czy noszone ubrania. Przezywanie konkretnych emocji, odblokuje przed nami m.in. nowe opcje dialogowe.
+</fabula>
+	</gra>		
+
+	<gra id="7">
+		<tytul>Fallout 4</tytul>
+		<producent>Bethesda Softworks </producent>
+		<wydawca>Bethesda Softworks </wydawca>
+		<data_premiery>10.11.2015</data_premiery>
+		<ocena_graczy>6.5</ocena_graczy>
+		<cena>69,99 zl</cena>
+		<opis>Fallout 4 na komputery PC jest czwarta pelnoprawna odslona kultowego cyklu post-apokaliptycznych gier RPG, zapoczatkowanego w 1997 roku przez studio Black Isle oraz koncern Interplay. Po zamknieciu studia oryginalnego dewelopera i chlodnym przyjeciu wydanego na PlayStation 2 Fallout: Brotherhood of Steel, prawa do marki przejela firma Bethesda i to wlasnie jej wewnetrzne studio odpowiada zarowno za trzecia, jak i czwarta czesc serii. Studio znane bylo wczesniej glownie z serii The Elder Scrolls, ktorej najpopularniejsza odslona, Skyrim, ukazala sie w 2011 roku na PC-tach oraz konsolach PlayStation 3 i Xbox 360.
+Tytul w wersji na komputery osobiste oferuje kilka usprawnien wzgledem konsolowych wydan. Gra oferuje opcje gry miedzy innymi w 60 klatkach na sekunde i rozdzielczosci przekraczajacej Full HD. Na PlayStation 4 i Xboksie One Fallout 4 dziala natomiast ,,tylko" w 30 klatkach i 1080p.
+Kolejna wazna rzecza sa modyfikacje, ktore w wersji PC-towej rozprowadzane sa niemal na tych samych zasadach, co w przypadku Skyrima. Krotko piszac, gracze maja praktycznie pelna dowolnosc w tworzeniu modyfikacji.
+</opis>
+		<fabula>Fabula Fallouta 4 rozpoczyna sie na przedmiesciach amerykanskiego Bostonu, na kilka chwil przed tragicznym w skutkach wybuchem nuklearnym. Podczas krotkiego wstepu poznajemy rodzine bohatera i kreujemy nasza postac (mezczyzne lub kobiete), dokonujac zmian w wygladzie zewnetrznym oraz przydzielamy punkty umiejetnosci. Chwile pozniej nastepuje wspomniany wybuch, po ktorym nasz protagonista trafia do przeciwatomowego schronu nr 111. Akcja wlasciwa zaczyna sie 200 lat pozniej, kiedy kontrolowana przez nas postac wychodzi ze schronu na powierzchnie i rozpoczyna walke o przetrwanie w nieprzyjaznym, postapokaliptycznym srodowisku. Naszym glownym zadaniem jest odnalezienie pozostalych czlonkow rodziny.
+</fabula>
+	</gra>	
+
+	<gra id="8">
+		<tytul>Diablo III: Reaper of Souls </tytul>
+		<producent>Blizzard Entertainment</producent>
+		<wydawca>Blizzard Entertainment</wydawca>
+		<data_premiery>25.03.2014</data_premiery>
+		<ocena_graczy>8.9</ocena_graczy>
+		<cena>59,99 zl</cena>
+		<opis>Diablo III: Reaper of Souls to tytul pierwszego rozszerzenia do trzeciej czesci jednej z najpopularniejszych serii hack-and-slash w historii, autorstwa studia Blizzard Entertainment. Dodatek wprowadza do gry piaty akt, kontynuujacy historie z podstawki. Fabula skupia sie wokol Aniola Smierci, Maltaela, ktory postanawia raz na zawsze zakonczyc Odwieczny Konflikt pomiedzy Niebem a Pieklem i w tym celu wykrada Czarny Kamien wiazacy dusze Diablo oraz innych Wladcow Demonow. Maltael nie przebiera w srodkach - za wszelka cene pragnie zniszczyc wszystkie przejawy zla, dlatego jego ofiarami padaja nie tylko same demony, ale rowniez i ludzie, bedacy po czesci ich potomkami. Aniol Smierci jest w stanie wykradac dusze, a zmarlych zmieniac w swoje slugi, stanowi wiec bezposrednie zagrozenie dla mieszkancow Sanktuarium, ktore powstrzymac moze jedynie potezny Nefalem.
+</opis>
+		<fabula>Akcja rozszerzenia toczy sie na terenach Zachodniej Marchii oraz jej okolic. Procz nowych przygod i lokacji, Reaper of Souls wprowadza do gry szostego bohatera. Jest nim ciezkozbrojny Krzyzowiec, odpowiednik Paladyna z ,,dwojki". W walce posluguje sie on ogromna tarcza, ciezkim orezem i swieta magia, co czyni go skutecznym wojownikiem zarowno na krotkich, jak i srednich dystansach. Wzmocniona zostala rowniez armia wroga - pojawily sie nowe rodzaje przeciwnikow, w tym upadle anioly. Wraz z dodatkiem limit doswiadczenia wzrosl do 70 poziomu, w zwiazku z czym kazda klasa moze zdobyc nowe umiejetnosci i runy. Zupelnie zmodyfikowano system poziomow mistrzowskich - zniknal gorny limit poziomow doswiadczenia, a dodatkowo "paragon" dotyczy teraz wszystkich postaci gracza na jednym koncie. Ponadto system ten pozwala wlasnorecznie rozdysponowac punkty miedzy 4 zakladki - cechy glowne, atak, obrone i cechy uzyteczne.
+Kolejna nowoscia sa zupelnie nowe wyzwania dla graczy - male lochy sluzace do polowania na lepszy sprzet, tzw. Szczeliny Nefalemow, stanowiace zestaw szybkich, ale trudnych zadan dla odwaznych, do ktorych zyskujemy dostep poprzez wykonywanie zlecen. Tworcy zdecydowali sie zmodyfikowac system zdobywania lupow. W porownaniu z oryginalnym Diablo III, z pokonanych wrogow wypada mniej przedmiotow, ale za to sa one bardziej wartosciowe oraz - dzieki funkcji zwanej Smart Drops - lepiej dopasowane do klasy postaci prowadzonej przez gracza.
+</fabula>
+	</gra>	
+
+	<gra id="9">
+		<tytul>Battlefield 1</tytul>
+		<producent>EA DICE / Digital Illusions CE </producent>
+		<wydawca>Electronic Arts Inc.</wydawca>
+		<data_premiery>02.09.2014</data_premiery>
+		<ocena_graczy>9.0</ocena_graczy>
+		<cena>144,99 zl</cena>
+		<opis>Battlefield 1 to kolejna pelnoprawna odslona jednej z najpopularniejszych serii pierwszoosobowych strzelanin, ukierunkowanych na zabawe w trybie multiplayer. Cykl zadebiutowal w 2002 roku gra Battlefield 1942 i doczekal sie czterech czesci oraz kilku spin-offow - w tym Battlefield Vietnam, Battlefield 2142, Battlefield: Bad Company i Battlefield Hardline. Za powstanie kolejnej pozycji z serii odpowiadaja jej oryginalni tworcy ze studia DICE, ktore od 2006 roku jest czescia koncernu Electronic Arts.
+Nowa odslona serii Battlefield zostala oficjalnie zapowiedziana w dniu 6 maja 2016 roku, a ukazala sie 21 pazdziernika na trzech najwazniejszych platformach sprzetowych. Wersja na PC Windows tradycyjnie goruje nad swoimi konsolowymi odpowiednikami pod wzgledem jakosci grafiki oraz wyboru dostepnych opcji konfiguracyjnych.
+</opis>
+		<fabula>Jak sugeruje tytul, Battlefield 1 przenosi nas w zupelnie nowe dla serii - ale i niezwykle rzadko wykorzystywane przez tworcow gier wideo - realia I wojny swiatowej. Fabula ukazuje nam globalny konflikt z perspektywy pieciu niezaleznych bohaterow, ktorym przyszlo uczestniczyc w pierwszym z wielkich konfliktow zbrojnych XX wieku. Wraz z nimi jestesmy swiadkami narodzin wojny totalnej, ktora - wbrew powszechnemu mniemaniu - przyniosla ze soba najwieksza rewolucje technologiczna w dziejach sztuki wojennej. To wlasnie w latach 1914-1918 po raz pierwszy skorzystano z pelnych mozliwosci artylerii, miotaczy ognia czy gazow bojowych, upowszechniono czolgi i karabiny maszynowe, jak rowniez zaczeto wykorzystywac wsparcie lotnictwa. W toku kampanii fabularnej bierzemy udzial w jednych z najwiekszych bitew w historii ludzkosci, rozgrywajacych sie na roznych frontach Wielkiej Wojny: od waskich uliczek francuskich miasteczek, poprzez silnie bronione forty we wloskich Alpach, az po spalone sloncem pustynie Arabii.
+</fabula>
+	</gra>	
+
+	<gra id="10">
+		<tytul>Mass Effect 2</tytul>
+		<producent>BioWare Corporation</producent>
+		<wydawca>Electronic Arts Inc.</wydawca>
+		<data_premiery>26.01.2010</data_premiery>
+		<ocena_graczy>9.2</ocena_graczy>
+		<cena>43,90 zl</cena>
+		<opis>Mass Effect 2 jest oficjalna kontynuacja wydanej w 2007 roku hitowej gry role-playing. Za przygotowanie sequela ponownie odpowiedzialne jest studio BioWare, czyli tworcy Dragon Age'a, Baldur's Gate'a, Knights of the Old Republic czy Jade Empire.
+</opis>	
+		<fabula>Opisywana produkcja przenosi nas w odlegla przyszlosc, oferujac mozliwosc eksploracji galaktyki zamieszkiwanej przez wiele inteligentnych ras. Akcja kontynuacji rozgrywa sie dwa lata po wydarzeniach z pierwszej czesci serii, a wiec w roku 2185. Po raz kolejny wcielamy sie w postac komandora Sheparda, ktory po pomyslnym odparciu inwazji Zniwiarzy musi stawic czola nowemu niebezpieczenstwu. Okazuje sie mianowicie, ze z obrzezy wszechswiata stopniowo znikaja ludzkie kolonie. Glowna postac zmuszona zostaje do sprzymierzenia sie z bezwzgledna organizacja Cerberus i wyrusza na samobojcza misje celem zbadania przyczyn utraty wspomnianych planet.
+</fabula>	
+	</gra>	
+
+	
+
+
+</gry>
